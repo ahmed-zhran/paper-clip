@@ -40,6 +40,9 @@ tmp/
 feedback-export-*
 diagnostics/
 
+# Runtime data (PAPERCLIP_HOME — contained inside the repo)
+.paperclip-data/
+
 # Editor / tool temp files
 *.tmp
 .vscode/
